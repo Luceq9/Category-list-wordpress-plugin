@@ -3,7 +3,7 @@
 Plugin Name: Category Plugin
 Description: A simple plugin to display categories using a shortcode.
 Version: 1.0
-Author: Your Name
+Author: Luceq
 */
 
 // Function to display categories
